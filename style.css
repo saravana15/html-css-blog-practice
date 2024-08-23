@@ -32,6 +32,9 @@
     border-radius: 5px;
     font-weight: bold;
 }
+#btn-type:hover{
+    cursor:Pointer;
+}
 #foundation{
     margin-top: 8px;
 }
