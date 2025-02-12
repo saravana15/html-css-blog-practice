@@ -34,6 +34,8 @@
 }
 #btn-type:hover{
     cursor:Pointer;
+    background-color: black;
+    color :yellow;
 }
 #foundation{
     margin-top: 8px;
